@@ -74,4 +74,11 @@ Indicates how well the model explains the variability of Electric Range — a hi
 - Dataset source and citation <a href="https://catalog.data.gov/dataset/electric-vehicle-population-data">DataSet</a>
 - Additional charts and raw output tables 
 
+##  Author
+[K ABHISHEK]
+- LinkedIn: [https://linkedin.com/in/abhishek-k-78020a383]
+- GitHub: [https://github.com/ABHI91827]
+- Email: [abhishekkarnam18@gmail.com]
+
+  This project demonstrates end-to-end data analysis and data science workflow including EDA, feature engineering, model building, and business insights generation.
 
